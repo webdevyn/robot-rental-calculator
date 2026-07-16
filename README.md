@@ -1,6 +1,6 @@
 # Raj's Robot Rentals
 
-A retro-themed interactive web application for calculating robot rental quotes. This project demonstrates fundamental web development skills including DOM manipulation, event handling, and dynamic pricing calculations.
+A retro-themed interactive web application for calculating robot rental quotes. This project demonstrates fundamental web development skills including DOM manipulation, event handling, and dynamic cost calculations.
 
 ## Features
 
@@ -18,3 +18,17 @@ A retro-themed interactive web application for calculating robot rental quotes. 
 - **Hosting**: Static HTML/CSS/JS (GitHub Pages compatible)
 
 ## Project Structure
+
+```
+lab-6/
+├── index.html          Main HTML file containing the application markup
+├── scripts/
+│   └── script.js       JavaScript file handling DOM interactions and cost calculations
+├── styles/
+│   ├── reset.css       CSS reset stylesheet for consistent cross-browser styling
+│   └── styles.css      Main stylesheet with retro design and layout
+└── images/
+    └── robot.jpg       Robot illustration asset used in the application UI
+```
+
+Each file serves a specific purpose in the retro robot rental calculator, maintaining clean separation between markup, styling, and JavaScript functionality.
